@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React-Tic-Tac-Toe
+
+> 🔗 [자습서: React 시작하기](https://ko.reactjs.org/tutorial/tutorial.html)의 Tic-Tac-Toe 게임 예제를 따라 만들어본 기록입니다.
+>
+> ⚛️ This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## 틱택토(Tic-Tac-Toe) 란?
+
+[틱택토 - Wikipedia](https://ko.wikipedia.org/wiki/%ED%8B%B1%ED%83%9D%ED%86%A0)
+
+[Google 검색에서 지원하는 Tic-Tac-Toe 게임](https://www.google.com/search?q=tic+tac+toe&oq=tic+tac+toe&aqs=chrome.0.0l5j69i61l3.2823j0j1&sourceid=chrome&ie=UTF-8)
 
 ## Available Scripts
 
