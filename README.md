@@ -3,6 +3,8 @@
 > 🔗 [자습서: React 시작하기](https://ko.reactjs.org/tutorial/tutorial.html)의 Tic-Tac-Toe 게임 예제를 따라 만들어본 기록입니다.
 >
 > ⚛️ This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+>
+> ✅ [Git History - index.js](https://github.githistory.xyz/younho9/react-tic-tac-toe/blob/master/src/index.js)
 
 ## 틱택토(Tic-Tac-Toe) 란?
 
